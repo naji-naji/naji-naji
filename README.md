@@ -10,24 +10,17 @@
     <img src="assets/Naji_Naji_Skills.gif" alt="About Me Terminal GIF"/>
 </div>
 
-## Skills Overview
+## Languages  
+Python · JavaScript · Java · C · TypeScript · C++ · PostgreSQL · Swift  
 
-### Data Skills
-Python • SQL • JavaScript • Advanced Spreadsheets  
-Data Cleaning • Data Visualization • Dashboards  
-REST APIs • Looker Studio • Tableau • Jupyter • Webhooks  
+## Technologies  
+AWS · Docker · Jira · Kubernetes · Linux · Node.js · Prometheus · React · Spring · TCP/IP  
 
-### Advanced Data & Analytics
-Machine Learning • Predictive Models • Regression Models  
-Statistical Analysis • Hypothesis Testing • Business Intelligence  
+## Web / Full-Stack Projects  
+My Website · COVID-19 Dashboard · Summarizer · Overwatch · KubeSat · Voice Poker · PokémonGo Map  
 
-### Project Management
-Project Management • Client Retention • Budget Management  
-Vendor Management • Process Optimization • Cross-Functional Leadership  
-
-### Tools & Platforms
-Jira • Confluence • Notion • Monday.com • Trello  
-Google Sheets • Microsoft Excel • PowerPoint
+## Cybersecurity Projects  
+Spectre & Meltdown · Heartbleed · SYN Flood · Packet Sniffing & Spoofing · SQL Injection · Network Tools  
 
 
 
