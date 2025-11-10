@@ -33,11 +33,8 @@
 
 
 ### Connect with me!
-<div>
-    <a href="https://www.linkedin.com/in/najinaji/">
-        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
-    </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-CECECE?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/najinaji/)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CECECE&height=120&section=footer" alt="footer"/>
 
