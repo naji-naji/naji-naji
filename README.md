@@ -7,7 +7,7 @@
 
 
 <div>
-    <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
+    <img src="./assets/naji_naji_skills.gif" alt="About Me Terminal GIF"/>
 </div>
 
 <!--
