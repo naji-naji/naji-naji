@@ -40,57 +40,67 @@ Google Sheets &nbsp;·&nbsp; Microsoft Excel &nbsp;·&nbsp; PowerPoint
 
 ## 🚀 Selected Work
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
+<table align="center">
+  <tr>
+    <!-- Looker Studio -->
+    <td align="center" width="33%">
+      <a href="https://lookerstudio.google.com/reporting/<your-report-id>" target="_blank">
+        <img src="https://cdn.simpleicons.org/looker/5A00E0" width="64" height="64" alt="Looker Studio">
+        <br><b>Looker Studio — Sales Dashboard</b>
+      </a>
+      <br>
+      <img src="https://cdn.simpleicons.org/python" width="22" height="22" alt="Python">
+      <img src="https://cdn.simpleicons.org/javascript" width="22" height="22" alt="JavaScript">
+      <img src="https://cdn.simpleicons.org/postgresql" width="22" height="22" alt="PostgreSQL">
+      <img src="https://cdn.simpleicons.org/tableau" width="22" height="22" alt="Tableau">
+    </td>
 
-  <!-- Looker Studio -->
-  <div style="width: 200px; text-align: center;">
-    <a href="https://lookerstudio.google.com/reporting/<your-report-id>" target="_blank">
-      <img src="assets/Looker.svg" width="180" height="180" alt="Looker Studio Icon" />
-      <br><b>Looker Studio</b>
-    </a>
-    <br>
-    <sub>Sales Dashboard</sub><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" />
-  </div>
+    <!-- Data Automation (Jupyter/Python) -->
+    <td align="center" width="33%">
+      <a href="https://github.com/<your-username>/<your-repo>" target="_blank">
+        <img src="https://cdn.simpleicons.org/python" width="64" height="64" alt="Python">
+        <br><b>Data Automation</b>
+      </a>
+      <br>
+      <img src="https://cdn.simpleicons.org/python" width="22" height="22" alt="Python">
+      <img src="https://cdn.simpleicons.org/jupyter" width="22" height="22" alt="Jupyter">
+      <img src="https://cdn.simpleicons.org/javascript" width="22" height="22" alt="JavaScript">
+      <img src="https://cdn.simpleicons.org/postgresql" width="22" height="22" alt="PostgreSQL">
+    </td>
 
-  <!-- Python Project -->
-  <div style="width: 200px; text-align: center;">
-    <a href="https://github.com/<your-username>/<your-repo>" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python Icon" />
-      <br><b>Data Automation</b>
-    </a>
-    <br>
-    <sub>ETL Pipeline</sub><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30" />
-  </div>
+    <!-- Budget Model (Excel/Sheets) -->
+    <td align="center" width="33%">
+      <a href="https://drive.google.com/file/d/<file-id>/view" target="_blank">
+        <img src="https://cdn.simpleicons.org/microsoftexcel" width="64" height="64" alt="Excel">
+        <br><b>Budget Model — Excel / Sheets</b>
+      </a>
+      <br>
+      <img src="https://cdn.simpleicons.org/microsoftexcel" width="22" height="22" alt="Excel">
+      <img src="https://cdn.simpleicons.org/googlesheets" width="22" height="22" alt="Google Sheets">
+      <img src="https://cdn.simpleicons.org/python" width="22" height="22" alt="Python">
+    </td>
+  </tr>
 
-  <!-- Excel Model -->
-  <div style="width: 200px; text-align: center;">
-    <a href="https://drive.google.com/file/d/<your-file-id>/view" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="60" height="60" alt="Excel Icon" />
-      <br><b>Budget Model</b>
-    </a>
-    <br>
-    <sub>Excel / Sheets</sub><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="30" height="30" />
-  </div>
+  <tr>
+    <!-- Ops Optimization (PM case study) -->
+    <td align="center" width="33%">
+      <a href="https://www.notion.so/<your-page>" target="_blank">
+        <img src="https://cdn.simpleicons.org/jira" width="64" height="64" alt="Jira">
+        <br><b>Ops Optimization — Case Study</b>
+      </a>
+      <br>
+      <img src="https://cdn.simpleicons.org/jira" width="22" height="22" alt="Jira">
+      <img src="https://cdn.simpleicons.org/notion" width="22" height="22" alt="Notion">
+      <img src="https://cdn.simpleicons.org/trello" width="22" height="22" alt="Trello">
+      <img src="https://cdn.simpleicons.org/mondaydotcom" width="22" height="22" alt="Monday.com">
+    </td>
 
-  <!-- PM / Ops Case Study -->
-  <div style="width: 200px; text-align: center;">
-    <a href="https://your-notion-or-site.page" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="60" height="60" alt="Jira Icon" />
-      <br><b>Ops Optimization</b>
-    </a>
-    <br>
-    <sub>Case Study</sub><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="30" height="30" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="30" height="30" />
-  </div>
+    <!-- Add more cells as needed -->
+    <td align="center" width="33%"></td>
+    <td align="center" width="33%"></td>
+  </tr>
+</table>
 
-</div>
 
 
 
