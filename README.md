@@ -31,26 +31,36 @@
 
 ### My Work  
 
-<div align="center">
-  <a href="https://github.com/your-repo1" target="_blank" style="text-decoration: none; margin: 10px;">
-    <img src="https://via.placeholder.com/300x150.png?text=Project+Title+1" alt="Project 1" width="300" />
-    <p style="margin:5px 0 0; font-size:16px; color:#333333;">**Project Title 1**</p>
-    <p style="margin:2px 0; font-size:14px; color:#666666;">A crisp short description of what you built & the value you delivered.</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2200&pause=800&color=334756&center=true&vCenter=true&width=900&lines=Selected+Work;Dashboards+%2F+Repos+%2F+Reports)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://github.com/<your-username>/<repo-1>">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=<your-username>&repo=<repo-1>&theme=transparent&bg_color=30,CECECE,D9BED1&title_color=334756&text_color=334756&border_color=CECECE" />
+  </a>
+  <a href="https://github.com/<your-username>/<repo-2>">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=<your-username>&repo=<repo-2>&theme=transparent&bg_color=30,CECECE,D9BED1&title_color=334756&text_color=334756&border_color=CECECE" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Looker dashboard card -->
+  <a href="https://lookerstudio.google.com/u/0/reporting/<your-report-id>">
+    <img alt="Looker – Sales Dashboard"
+      src="https://capsule-render.vercel.app/api?type=rect&height=140&color=D9BED1&text=Looker%20Report%20%E2%80%94%20Sales%20Dashboard&fontColor=334756&fontSize=24&desc=Interactive%20trends%20%7C%20Drilldowns&descSize=14&descAlign=50&descAlignY=75&stroke=CECECE&strokeWidth=2" />
   </a>
 
-  <a href="https://looker.example.com/report" target="_blank" style="text-decoration: none; margin: 10px;">
-    <img src="https://via.placeholder.com/300x150.png?text=Looker+Report+2" alt="Project 2" width="300" />
-    <p style="margin:5px 0 0; font-size:16px; color:#333333;">**Looker Report – Dashboard 2**</p>
-    <p style="margin:2px 0; font-size:14px; color:#666666;">Interactive dashboard for X department, delivering Y insights.</p>
+  <!-- GitHub-independent artifact (e.g., Excel model) -->
+  <a href="https://drive.google.com/file/d/<file-id>/view">
+    <img alt="Budget Model (Excel)"
+      src="https://capsule-render.vercel.app/api?type=rounded&height=140&color=CECECE&text=Budget%20Model%20(Excel)&fontColor=334756&fontSize=24&desc=Scenarios%20%7C%20Macros&descSize=14&descAlign=50&descAlignY=75&stroke=D9BED1&strokeWidth=2" />
   </a>
 
-  <a href="https://github.com/your-repo3" target="_blank" style="text-decoration: none; margin: 10px;">
-    <img src="https://via.placeholder.com/300x150.png?text=Project+Title+3" alt="Project 3" width="300" />
-    <p style="margin:5px 0 0; font-size:16px; color:#333333;">**Project Title 3**</p>
-    <p style="margin:2px 0; font-size:14px; color:#666666;">File / sheet / system built to automate & optimise Z process.</p>
+  <!-- Any URL (e.g., Notion case study, PDF, etc.) -->
+  <a href="https://your-site-or-notion-page">
+    <img alt="Case Study"
+      src="https://capsule-render.vercel.app/api?type=soft&height=140&color=CECECE&text=Case%20Study&fontColor=334756&fontSize=24&desc=Methods%20%7C%20Results%20%7C%20Impact&descSize=14&descAlign=50&descAlignY=75&stroke=D9BED1&strokeWidth=2" />
   </a>
-</div>
-
+</p>
 
 
 ### Connect with me!
