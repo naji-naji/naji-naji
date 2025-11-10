@@ -1,9 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CECECE&height=120&section=header" alt="header"/> 
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=200&width=435&lines=Hello%2C+I+am+Naji+Naji;Project+Manager;Data+Analyst;Business+Intelligence+Specialist" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=100&multiline=true&repeat=false&width=800&height=150&lines=Hello%2C+I+am+Naji+Naji;Data+Analyst%2C+Project+Manager+and+Business+Intelligence+Specialist;Thanks+for+stopping+By!;Check+out+my+projects+below%3A" alt="Typing SVG" /></a>
 
 
 ## Selected Work
