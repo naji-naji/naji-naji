@@ -18,7 +18,11 @@
       <br>
       <br>
       <small>
-        <b>Lego Sets Interactive Dashboard</b>
+        <b>
+          <a href="https://lookerstudio.google.com/s/qs5JoyHwYcw" target="_blank" style="text-decoration:none; color:inherit;">
+            Lego Sets Interactive Dashboard
+          </a>
+        </b>
       </small>
       <br>
       <br>
@@ -35,7 +39,11 @@
       <br>
       <br>
       <small>
-        <b>Exploring AI Bias Through SHAP-Based Interpretation of a Machine Learning Model</b>
+        <b>
+          <a href="https://nbviewer.org/github/naji-naji/Exploring-AI-Bias-Through-SHAP-Based-Interpretation-of-a-Machine-Learning-Model/blob/main/case_study_notebook.ipynb" target="_blank" style="text-decoration:none; color:inherit;">
+            Exploring AI Bias Through SHAP-Based Interpretation of a Machine Learning Model
+          </a>
+        </b>
       </small>
       <br>
       <br>
@@ -44,6 +52,7 @@
     </td>
   </tr>
 </table>
+
 
 ## Data Skills
 <p>
