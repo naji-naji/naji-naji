@@ -7,7 +7,7 @@
 ## Selected Work
 ## Selected Work <table align="center">
   <tr>
-    <td align="center" width="250">
+    <td align="center" width="400">
       <div style="width:400px;">
         <a href="https://lookerstudio.google.com/s/qs5JoyHwYcw" target="_blank">
           <img src="https://cdn.simpleicons.org/looker" width="200" height="200" alt="Looker Studio Dashboard">
@@ -28,7 +28,7 @@
         <img src="https://cdn.simpleicons.org/kaggle" width="50" height="50" alt="Kaggle">
       </div>
     </td>
-    <td align="center" width="250">
+    <td align="center" width="400">
       <div style="width:400px;">
         <a href="https://nbviewer.org/github/naji-naji/Exploring-AI-Bias-Through-SHAP-Based-Interpretation-of-a-Machine-Learning-Model/blob/main/case_study_notebook.ipynb" target="_blank">
           <img src="https://cdn.simpleicons.org/python" width="200" height="200" alt="Python">
