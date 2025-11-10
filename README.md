@@ -10,34 +10,28 @@
     <img src="assets/Naji_Naji_Skills.gif" alt="About Me Terminal GIF"/>
 </div>
 
-<!--
-     This is the list of my skills and tools I am studying!
--->
-### Main skills
-## 🧠 Data & Analytics
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,postgres,js,google,excel,fastapi,pandas,numpy" />
-</p>
+### Skills
 
-## 🤖 Advanced Data Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,r" />
-</p>
-
-## 📂 Project Management
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=notion,gitlab" />
-</p>
-
-## ⚙️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=notion,react,nodejs,ps,vscode,github" />
-</p>
+| 🗂️ **Data Skills**          | ⚙️ **Advanced Data Skills** | 🧭 **Project Management**          | 🧰 **Tools & Platforms** |
+| ---------------------------- | --------------------------- | ---------------------------------- | ------------------------ |
+| 🐍 **Python**                | 🤖 **Machine Learning**     | 📋 **Project Management**          | 🧩 **Jira**              |
+| 💾 **SQL**                   | 📊 **Predictive Models**    | 💬 **Client Retention**            | 🗒️ **Confluence**       |
+| 💻 **JavaScript**            | 📐 **Regression Models**    | 💰 **Budget Management**           | 🧠 **Notion**            |
+| 🧮 **Advanced Spreadsheets** | 📈 **Statistical Analysis** | 🧾 **Vendor Management**           | 🧭 **Monday.com**        |
+| 🧹 **Data Cleaning**         | 🧪 **Hypothesis Testing**   | ⚙️ **Process Optimization**        | ✅ **Trello**             |
+| 📊 **Data Visualization**    |                             | 👥 **Cross-Functional Leadership** | 📗 **Google Sheets**     |
+| 🖥️ **Dashboards**           |                             |                                    | 📘 **Microsoft Excel**   |
+| 🔗 **REST APIs**             |                             |                                    | 🖥️ **PowerPoint**       |
+| 📉 **Looker Studio**         |                             |                                    |                          |
+| 📈 **Tableau**               |                             |                                    |                          |
+| 📓 **Jupyter**               |                             |                                    |                          |
+| 🌐 **Webhooks**              |                             |                                    |                          |
+| 💡 **Business Intelligence** |                             |                                    |                          |
 
 
 
 
-### Studying
+
 [![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
 
 
