@@ -52,12 +52,15 @@
 </table>
 <br>
 
+# Certifications
+
 <p align="center">
   <img src="assets/google-advanced-data-analytics-certificate.png" alt="Google Advanced Data Analytics Certificate" width="200" style="margin: 10px;">
   <img src="assets/google-data-analytics-professional-certificate-v2.png" alt="Google Data Analytics Professional Certificate" width="200" style="margin: 10px;">
 </p>
 
 <br>
+
 # Technical & Analytics Skills
 
 ## Programming & Data
