@@ -16,12 +16,12 @@
         <b>Looker Studio</b>
         <br>
         <br>
-        <br>
         <small>
           <b>
             <a href="https://lookerstudio.google.com/s/qs5JoyHwYcw" target="_blank" style="text-decoration:none; color:inherit;"> Lego Sets Interactive Dashboard </a>
           </b>
         </small>
+        <br>
         <br>
         <br>
         <img src="https://cdn.simpleicons.org/googlesheets" width="50" height="50" alt="Google Sheets">
