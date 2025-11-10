@@ -38,41 +38,60 @@ Google Sheets &nbsp;·&nbsp; Microsoft Excel &nbsp;·&nbsp; PowerPoint
 
 
 
-## Selected Work
+## 🚀 Selected Work
 
-<div align="center">
-  <!-- Project 1 -->
-  <a href="https://lookerstudio.google.com/reporting/<your-report-id>" target="_blank" style="text-decoration:none; margin:20px;">
-    <img src="assets/Looker.svg" alt="Looker Studio Icon" width="180" height="180">
-    <br><strong>Sales Dashboard – Looker Studio</strong>
-    <br>
-    <img src="https://skillicons.dev/icons?i=looker,tableau,python&perline=8" alt="Skills" height="24">
-  </a>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
 
-  <!-- Project 2 -->
-  <a href="https://github.com/your-username/your-repo" target="_blank" style="text-decoration:none; margin:20px;">
-    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/icons/python.svg" alt="Python Icon" width="60" height="60">
-    <br><strong>Data Automation Pipeline</strong>
+  <!-- Looker Studio -->
+  <div style="width: 200px; text-align: center;">
+    <a href="https://lookerstudio.google.com/reporting/<your-report-id>" target="_blank">
+      <img src="assets/Looker.svg" width="180" height="180" alt="Looker Studio Icon" />
+      <br><b>Looker Studio</b>
+    </a>
     <br>
-    <img src="https://skillicons.dev/icons?i=python,js,postgresql&perline=8" alt="Skills" height="24">
-  </a>
+    <sub>Sales Dashboard</sub><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" />
+  </div>
 
-  <!-- Project 3 -->
-  <a href="https://drive.google.com/file/d/<file-id>/view" target="_blank" style="text-decoration:none; margin:20px;">
-    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/icons/excel.svg" alt="Excel Icon" width="60" height="60">
-    <br><strong>Budget Model (Excel / Sheets)</strong>
+  <!-- Python Project -->
+  <div style="width: 200px; text-align: center;">
+    <a href="https://github.com/<your-username>/<your-repo>" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python Icon" />
+      <br><b>Data Automation</b>
+    </a>
     <br>
-    <img src="https://skillicons.dev/icons?i=excel,google,sheets&perline=8" alt="Skills" height="24">
-  </a>
+    <sub>ETL Pipeline</sub><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30" />
+  </div>
 
-  <!-- Project 4 -->
-  <a href="https://your-notion-or-site.page" target="_blank" style="text-decoration:none; margin:20px;">
-    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/icons/jira.svg" alt="Jira Icon" width="60" height="60">
-    <br><strong>Ops Optimization Case Study</strong>
+  <!-- Excel Model -->
+  <div style="width: 200px; text-align: center;">
+    <a href="https://drive.google.com/file/d/<your-file-id>/view" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="60" height="60" alt="Excel Icon" />
+      <br><b>Budget Model</b>
+    </a>
     <br>
-    <img src="https://skillicons.dev/icons?i=jira,trello,notion&perline=8" alt="Skills" height="24">
-  </a>
+    <sub>Excel / Sheets</sub><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="30" height="30" />
+  </div>
+
+  <!-- PM / Ops Case Study -->
+  <div style="width: 200px; text-align: center;">
+    <a href="https://your-notion-or-site.page" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="60" height="60" alt="Jira Icon" />
+      <br><b>Ops Optimization</b>
+    </a>
+    <br>
+    <sub>Case Study</sub><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="30" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="30" height="30" />
+  </div>
+
 </div>
+
 
 
 
