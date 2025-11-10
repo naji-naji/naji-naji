@@ -43,7 +43,7 @@ Google Sheets &nbsp;·&nbsp; Microsoft Excel &nbsp;·&nbsp; PowerPoint
 <div align="center">
   <!-- Project 1 -->
   <a href="https://lookerstudio.google.com/reporting/<your-report-id>" target="_blank" style="text-decoration:none; margin:20px;">
-    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/icons/looker.svg" alt="Looker Studio Icon" width="60" height="60">
+    <img src="assets/Looker.svg" alt="Looker Studio Icon" width="60" height="60">
     <br><strong>Sales Dashboard – Looker Studio</strong>
     <br>
     <img src="https://skillicons.dev/icons?i=looker,tableau,python&perline=8" alt="Skills" height="24">
