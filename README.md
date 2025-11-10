@@ -10,68 +10,74 @@
     <img src="assets/Naji_Naji_Skills.gif" alt="About Me Terminal GIF"/>
 </div>
 
-## Languages  
-Python · JavaScript · Java · C · TypeScript · C++ · PostgreSQL · Swift  
+## Data Skills
+<p>
+Python &nbsp;·&nbsp; SQL &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; Advanced Spreadsheets<br>
+Data Cleaning &nbsp;·&nbsp; Data Visualization &nbsp;·&nbsp; Dashboards<br>
+REST APIs &nbsp;·&nbsp; Looker Studio &nbsp;·&nbsp; Tableau &nbsp;·&nbsp; Jupyter &nbsp;·&nbsp; Webhooks
+</p>
 
-## Technologies  
-AWS · Docker · Jira · Kubernetes · Linux · Node.js · Prometheus · React · Spring · TCP/IP  
+## Advanced Data & Analytics
+<p>
+Machine Learning &nbsp;·&nbsp; Predictive Models &nbsp;·&nbsp; Regression Models<br>
+Statistical Analysis &nbsp;·&nbsp; Hypothesis Testing &nbsp;·&nbsp; Business Intelligence
+</p>
 
-## Web / Full-Stack Projects  
-My Website · COVID-19 Dashboard · Summarizer · Overwatch · KubeSat · Voice Poker · PokémonGo Map  
+## Project Management
+<p>
+Project Management &nbsp;·&nbsp; Client Retention &nbsp;·&nbsp; Budget Management<br>
+Vendor Management &nbsp;·&nbsp; Process Optimization &nbsp;·&nbsp; Cross-Functional Leadership
+</p>
 
-## Cybersecurity Projects  
-Spectre & Meltdown · Heartbleed · SYN Flood · Packet Sniffing & Spoofing · SQL Injection · Network Tools  
+## Tools & Platforms
+<p>
+Jira &nbsp;·&nbsp; Confluence &nbsp;·&nbsp; Notion &nbsp;·&nbsp; Monday.com &nbsp;·&nbsp; Trello<br>
+Google Sheets &nbsp;·&nbsp; Microsoft Excel &nbsp;·&nbsp; PowerPoint
+</p>
 
 
 
-### My Work  
+
 ## 🚀 Selected Work
 
 <div align="center">
 
-  <!-- CARD 1 -->
-  <a href="https://lookerstudio.google.com/reporting/your-report-id" target="_blank">
-    <img src="https://github.com/user-attachments/assets/your-image-1" alt="Looker — Sales Dashboard" width="420">
-    <br><b>Looker — Sales Dashboard</b><br>
-    <img src="https://skillicons.dev/icons?i=looker,python,postgresql,tableau&perline=8" height="24">
-    <br>
-    <img src="https://img.shields.io/badge/Live-Report-D9BED1?style=flat&labelColor=CECECE&color=D9BED1">
+  <!-- LOOKER STUDIO -->
+  <a href="https://lookerstudio.google.com/reporting/<your-report-id>" target="_blank">
+    <img src="https://skillicons.dev/icons?i=looker" alt="Looker Studio" width="70" height="70"><br>
+    <b>Looker Studio — Sales Dashboard</b><br>
+    <img src="https://skillicons.dev/icons?i=looker,tableau,python,javascript&perline=8" alt="Skills" height="26">
   </a>
 
   <br><br>
 
-  <!-- CARD 2 -->
-  <a href="https://github.com/your-username/your-repo" target="_blank">
-    <img src="https://github.com/user-attachments/assets/your-image-2" alt="Data Automation Pipeline" width="420">
-    <br><b>Data Automation Pipeline</b><br>
-    <img src="https://skillicons.dev/icons?i=python,postgresql,github,githubactions&perline=8" height="24">
-    <br>
-    <img src="https://img.shields.io/badge/View-Code-CECECE?style=flat&labelColor=D9BED1&color=CECECE">
+  <!-- JUPYTER / PYTHON -->
+  <a href="https://github.com/<your-username>/<your-notebook-repo>" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python/Jupyter" width="70" height="70"><br>
+    <b>Jupyter Notebooks — Data Automation</b><br>
+    <img src="https://skillicons.dev/icons?i=python,jupyter,javascript&perline=8" alt="Skills" height="26">
   </a>
 
   <br><br>
 
-  <!-- CARD 3 -->
-  <a href="https://drive.google.com/file/d/your-file-id/view" target="_blank">
-    <img src="https://github.com/user-attachments/assets/your-image-3" alt="Budget Model (Excel)" width="420">
-    <br><b>Budget Model (Excel)</b><br>
-    <img src="https://skillicons.dev/icons?i=excel,google,python&perline=8" height="24">
-    <br>
-    <img src="https://img.shields.io/badge/Download-File-D9BED1?style=flat&labelColor=CECECE&color=D9BED1">
+  <!-- EXCEL / SHEETS MODEL -->
+  <a href="https://drive.google.com/file/d/<your-file-id>/view" target="_blank">
+    <img src="https://skillicons.dev/icons?i=excel" alt="Excel Model" width="70" height="70"><br>
+    <b>Budget Model — Excel / Sheets</b><br>
+    <img src="https://skillicons.dev/icons?i=excel,google,powerpoint&perline=8" alt="Skills" height="26">
   </a>
 
   <br><br>
 
-  <!-- CARD 4 -->
-  <a href="https://your-notion-or-site" target="_blank">
-    <img src="https://github.com/user-attachments/assets/your-image-4" alt="Case Study — Ops Optimization" width="420">
-    <br><b>Case Study — Ops Optimization</b><br>
-    <img src="https://skillicons.dev/icons?i=jira,confluence,notion,trello&perline=8" height="24">
-    <br>
-    <img src="https://img.shields.io/badge/Read-Case_Study-CECECE?style=flat&labelColor=D9BED1&color=CECECE">
+  <!-- PM / OPS CASE STUDY -->
+  <a href="https://www.notion.so/<your-page>" target="_blank">
+    <img src="https://skillicons.dev/icons?i=jira" alt="Project Management" width="70" height="70"><br>
+    <b>Process Optimization — Case Study</b><br>
+    <img src="https://skillicons.dev/icons?i=jira,confluence,notion,trello,monday&perline=8" alt="Skills" height="26">
   </a>
 
 </div>
+
 
 
 
