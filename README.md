@@ -23,7 +23,6 @@
         </small>
         <br>
         <br>
-        <br>
         <img src="https://cdn.simpleicons.org/googlesheets" width="50" height="50" alt="Google Sheets">
         <img src="https://cdn.simpleicons.org/kaggle" width="50" height="50" alt="Kaggle">
       </div>
