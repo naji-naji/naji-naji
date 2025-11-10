@@ -29,6 +29,27 @@
 | 💡 **Business Intelligence** |                             |                                    |                          |
 
 
+### My Work  
+
+<div align="center">
+  <a href="https://github.com/your-repo1" target="_blank" style="text-decoration: none; margin: 10px;">
+    <img src="https://via.placeholder.com/300x150.png?text=Project+Title+1" alt="Project 1" width="300" />
+    <p style="margin:5px 0 0; font-size:16px; color:#333333;">**Project Title 1**</p>
+    <p style="margin:2px 0; font-size:14px; color:#666666;">A crisp short description of what you built & the value you delivered.</p>
+  </a>
+
+  <a href="https://looker.example.com/report" target="_blank" style="text-decoration: none; margin: 10px;">
+    <img src="https://via.placeholder.com/300x150.png?text=Looker+Report+2" alt="Project 2" width="300" />
+    <p style="margin:5px 0 0; font-size:16px; color:#333333;">**Looker Report – Dashboard 2**</p>
+    <p style="margin:2px 0; font-size:14px; color:#666666;">Interactive dashboard for X department, delivering Y insights.</p>
+  </a>
+
+  <a href="https://github.com/your-repo3" target="_blank" style="text-decoration: none; margin: 10px;">
+    <img src="https://via.placeholder.com/300x150.png?text=Project+Title+3" alt="Project 3" width="300" />
+    <p style="margin:5px 0 0; font-size:16px; color:#333333;">**Project Title 3**</p>
+    <p style="margin:2px 0; font-size:14px; color:#666666;">File / sheet / system built to automate & optimise Z process.</p>
+  </a>
+</div>
 
 
 
