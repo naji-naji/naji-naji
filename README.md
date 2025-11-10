@@ -50,7 +50,8 @@
     </td>
   </tr>
 </table>
-
+<br>
+<br>
 
 # Technical & Analytics Skills
 
@@ -58,20 +59,12 @@
 * **Languages:** Python, SQL, JavaScript
 * **Tools & Environments:** Jupyter, REST APIs, Webhooks, Advanced Spreadsheets
 * **Data Proficiency:** Data Cleaning, Data Visualization, Statistical Analysis, Hypothesis Testing
-
-## Advanced Analytics & Modeling
 * **Modeling:** Machine Learning (ML), Predictive Models, Regression Models
 * **Business Intelligence (BI):** Dashboards, Looker Studio, Tableau, Business Intelligence
-
----
-
-# Project Management & Tools
 
 ## Project & Business Acumen
 * **Management:** Project Management, Budget Management, Vendor Management
 * **Strategy:** Process Optimization, Client Retention, Cross-Functional Leadership
-
-## Tools & Platforms
 * **Project Management:** Jira, Confluence, Notion, Monday.com, Trello
 * **Productivity:** Google Sheets, Microsoft Excel, PowerPoint
 
