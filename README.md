@@ -5,7 +5,7 @@
 
 
 ## Selected Work
-## Selected Work <table align="center">
+<table align="center">
   <tr>
     <td align="center" width="400">
       <div style="width:400px;">
