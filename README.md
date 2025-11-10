@@ -55,16 +55,23 @@
 <!-- Certificates Section -->
 <h2 align="center">Certificates</h2>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; height: 200px;">
-  <img src="assets/google-advanced-data-analytics-certificate.png" 
-       alt="Google Advanced Data Analytics Certificate" 
-       height="200" 
-       style="object-fit: contain;">
-  <img src="assets/google-data-analytics-professional-certificate-v2.png" 
-       alt="Google Data Analytics Professional Certificate" 
-       height="200" 
-       style="object-fit: contain;">
-</div>
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="assets/google-advanced-data-analytics-certificate.png" 
+           alt="Google Advanced Data Analytics Certificate" 
+           width="200" 
+           style="margin: 10px;">
+    </td>
+    <td align="center" valign="middle">
+      <img src="assets/google-data-analytics-professional-certificate-v2.png" 
+           alt="Google Data Analytics Professional Certificate" 
+           width="160" 
+           style="margin: 10px;">
+    </td>
+  </tr>
+</table>
+
 <br>
 # Technical & Analytics Skills
 
