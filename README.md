@@ -15,18 +15,26 @@
 -->
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=python,postgresql,js,html,css,jupyter,tableau,pandas,numpy,tensorflow,sklearn,pytorch,looker,powerbi,jira,confluence,notion,trello,monday,google,excel,powerpoint,github,vscode)](https://skillicons.dev)
+## 🧠 Data Skills  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,javascript,advanced-spreadsheets,data-cleaning,data-visualization,dashboards,rest-apis,looker,tableau,jupyter,webhooks,business-intelligence" alt="Data Skills icons" />
+</p>
 
-#### 🧠 Data & Analytics  
-`python` `sql` `js` `tableau` `jupyter` `looker`
+## 🤖 Advanced Data Skills  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=machine-learning,predictive-models,regression-models,statistical-analysis,hypothesis-testing" alt="Advanced Data Skills icons" />
+</p>
 
-#### 🤖 Advanced Data Skills  
-`machine-learning` `predictive-models` `regression-models` `statistical-analysis` `hypothesis-testing`
+## 📂 Project Management Skills  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=project-management,client-retention,budget-management,vendor-management,work-order-administration,process-optimization,cross-functional-team-leadership" alt="Project Management Skills icons" />
+</p>
 
-#### 📂 Project Management  
-`project-management` `client-retention` `budget-management` `vendor-management` `cross-functional-team`
+## ⚙️ Tools & Platforms  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=advanced-jira,confluence,notion,monday,trello,google-sheets,microsoft-excel,powerpoint" alt="Tools & Platforms icons" />
+</p>
 
-#### ⚙️ Tools & Platforms  
-`jira` `confluence` `notion` `monday` `trello` `google-sheets` `microsoft-excel` `powerpoint`
 
 
 
