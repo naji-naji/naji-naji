@@ -35,10 +35,10 @@ Jira &nbsp;·&nbsp; Confluence &nbsp;·&nbsp; Notion &nbsp;·&nbsp; Monday.com &
 Google Sheets &nbsp;·&nbsp; Microsoft Excel &nbsp;·&nbsp; PowerPoint
 </p>
 
-## 🚀 Selected Work
+## Selected Work
 
-<table align="center"> <tr> <td align="center" width="250"> <a href="https://lookerstudio.google.com/reporting/<your-report-id>" target="_blank"> <img src="https://cdn.simpleicons.org/looker/5A00E0" width="70" height="70" alt="Looker Studio"><br> <b>Looker Studio</b> </a><br> <sub>Sales Dashboard</sub><br> <img src="https://cdn.simpleicons.org/python" width="24" height="24" alt="Python"> <img src="https://cdn.simpleicons.org/javascript" width="24" height="24" alt="JavaScript"> <img src="https://cdn.simpleicons.org/postgresql" width="24" height="24" alt="PostgreSQL"> <img src="https://cdn.simpleicons.org/tableau" width="24" height="24" alt="Tableau"> </td>
-<td align="center" width="250">
+<table align="center"> <tr> <td align="center" width="250"> <a href="https://lookerstudio.google.com/s/qs5JoyHwYcw" target="_blank"> <img src="https://cdn.simpleicons.org/looker/5A00E0" width="70" height="70" alt="Looker Studio"><br> <b>Looker Studio</b> </a><br> <sub>Lego Sets Interactive Dashboard</sub><br> <img src="https://cdn.simpleicons.org/googlesheets" width="24" height="24" alt="Google Sheets"> <img src="https://cdn.simpleicons.org/kaggle" width="24" height="24" alt="Kaggle"> </td>
+<td align="center" width="300">
   <a href="https://github.com/<your-username>/<your-repo>" target="_blank">
     <img src="https://cdn.simpleicons.org/python/3776AB" width="70" height="70" alt="Python"><br>
     <b>Data Automation</b>
@@ -48,22 +48,8 @@ Google Sheets &nbsp;·&nbsp; Microsoft Excel &nbsp;·&nbsp; PowerPoint
   <img src="https://cdn.simpleicons.org/jupyter" width="24" height="24" alt="Jupyter">
   <img src="https://cdn.simpleicons.org/javascript" width="24" height="24" alt="JavaScript">
   <img src="https://cdn.simpleicons.org/postgresql" width="24" height="24" alt="PostgreSQL">
-</td>
-
-</tr> <tr> <td align="center" width="250"> <a href="https://drive.google.com/file/d/<file-id>/view" target="_blank"> <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="70" height="70" alt="Excel"><br> <b>Budget Model</b> </a><br> <sub>Excel / Sheets</sub><br> <img src="https://cdn.simpleicons.org/microsoftexcel" width="24" height="24" alt="Excel"> <img src="https://cdn.simpleicons.org/googlesheets" width="24" height="24" alt="Google Sheets"> <img src="https://cdn.simpleicons.org/python" width="24" height="24" alt="Python"> </td>
-<td align="center" width="250">
-  <a href="https://www.notion.so/<your-page>" target="_blank">
-    <img src="https://cdn.simpleicons.org/jira/0052CC" width="70" height="70" alt="Jira"><br>
-    <b>Ops Optimization</b>
-  </a><br>
-  <sub>Case Study</sub><br>
-  <img src="https://cdn.simpleicons.org/jira" width="24" height="24" alt="Jira">
-  <img src="https://cdn.simpleicons.org/notion" width="24" height="24" alt="Notion">
-  <img src="https://cdn.simpleicons.org/trello" width="24" height="24" alt="Trello">
-  <img src="https://cdn.simpleicons.org/mondaydotcom" width="24" height="24" alt="Monday.com">
-</td>
-
-</tr> </table>
+</td> </tr>
+ </table>
 
 
 
