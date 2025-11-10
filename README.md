@@ -37,7 +37,8 @@ Google Sheets &nbsp;·&nbsp; Microsoft Excel &nbsp;·&nbsp; PowerPoint
 
 ## Selected Work
 
-<table align="center"> <tr> <td align="center" width="250"> <a href="https://lookerstudio.google.com/s/qs5JoyHwYcw" target="_blank"> <img src="https://cdn.simpleicons.org/looker/5A00E0" width="70" height="70" alt="Looker Studio"><br> <b>Looker Studio</b> </a><br> <sub>Lego Sets Interactive Dashboard</sub><br> <img src="https://cdn.simpleicons.org/googlesheets" width="24" height="24" alt="Google Sheets"> <img src="https://cdn.simpleicons.org/kaggle" width="24" height="24" alt="Kaggle"> </td>
+<table align="center"> <tr> <td align="center" width="250"> <a href="https://lookerstudio.google.com/s/qs5JoyHwYcw" target="_blank"> <img src="https://cdn.simpleicons.org/looker" width="200" height="200" alt="Looker Studio"><br> <b>Lego Sets Interactive Dashboard</b> </a>
+<br> <img src="https://cdn.simpleicons.org/googlesheets" width="24" height="24" alt="Google Sheets"> <img src="https://cdn.simpleicons.org/kaggle" width="24" height="24" alt="Kaggle"> </td>
 <td align="center" width="300">
   <a href="https://github.com/<your-username>/<your-repo>" target="_blank">
     <img src="https://cdn.simpleicons.org/python/3776AB" width="70" height="70" alt="Python"><br>
