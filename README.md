@@ -33,7 +33,7 @@
 
 
 ### Connect with me!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-CECECE?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/najinaji/)
+[<img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn">](https://www.linkedin.com/in/najinaji/)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CECECE&height=120&section=footer" alt="footer"/>
