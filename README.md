@@ -6,9 +6,44 @@
 </a>
 
 
-<div>
-    <img src="assets/Naji_Naji_Skills.gif" alt="About Me Terminal GIF"/>
-</div>
+## Selected Work
+<table align="center">
+  <tr>
+    <td align="center" width="250">
+      <a href="https://lookerstudio.google.com/s/qs5JoyHwYcw" target="_blank">
+        <img src="https://cdn.simpleicons.org/looker" width="200" height="200" alt="Looker Studio Dashboard">
+      </a>
+      <br>
+      <b>Looker Studio</b>
+      <br>
+      <br>
+      <small>
+        <b>Lego Sets Interactive Dashboard</b>
+      </small>
+      <br>
+      <br>
+      <br>
+      <img src="https://cdn.simpleicons.org/googlesheets" width="50" height="50" alt="Google Sheets">
+      <img src="https://cdn.simpleicons.org/kaggle" width="50" height="50" alt="Kaggle">
+    </td>
+    <td align="center" width="300">
+      <a href="https://nbviewer.org/github/naji-naji/Exploring-AI-Bias-Through-SHAP-Based-Interpretation-of-a-Machine-Learning-Model/blob/main/case_study_notebook.ipynb" target="_blank">
+        <img src="https://cdn.simpleicons.org/python" width="200" height="200" alt="Python">
+      </a>
+      <br>
+      <b>Python Notebook</b>
+      <br>
+      <br>
+      <small>
+        <b>Exploring AI Bias Through SHAP-Based Interpretation of a Machine Learning Model</b>
+      </small>
+      <br>
+      <br>
+      <img src="https://cdn.simpleicons.org/python" width="50" height="50" alt="Python">
+      <img src="https://cdn.simpleicons.org/jupyter" width="50" height="50" alt="Jupyter">
+    </td>
+  </tr>
+</table>
 
 ## Data Skills
 <p>
@@ -35,44 +70,11 @@ Jira &nbsp;·&nbsp; Confluence &nbsp;·&nbsp; Notion &nbsp;·&nbsp; Monday.com &
 Google Sheets &nbsp;·&nbsp; Microsoft Excel &nbsp;·&nbsp; PowerPoint
 </p>
 
-## Selected Work
-
-<table align="center">
-  <tr>
-    <td align="center" width="250">
-      <a href="https://lookerstudio.google.com/s/qs5JoyHwYcw" target="_blank">
-        <img src="https://cdn.simpleicons.org/looker" width="200" height="200" alt="Looker Studio">
-      </a>
-      <br>
-      <b>Looker Studio</b>
-      <br>
-      <br>
-      <b>Lego Sets Interactive Dashboard</b>
-      <br>
-      <br>
-      <br>
-      <img src="https://cdn.simpleicons.org/googlesheets" width="50" height="50" alt="Google Sheets">
-      <img src="https://cdn.simpleicons.org/kaggle" width="50" height="50" alt="Kaggle">
-    </td>
-    <td align="center" width="300">
-      <a href="https://nbviewer.org/github/naji-naji/Exploring-AI-Bias-Through-SHAP-Based-Interpretation-of-a-Machine-Learning-Model/blob/main/case_study_notebook.ipynb" target="_blank">
-        <img src="https://cdn.simpleicons.org/python" width="200" height="200" alt="Python">
-      </a>
-      <br>
-      <b>Python Notebook</b>
-      <br>
-      <br>
-      <b>Exploring AI Bias Through SHAP-Based Interpretation of a Machine Learning Model</b>
-      <br>
-      <br>
-      <img src="https://cdn.simpleicons.org/python" width="50" height="50" alt="Python">
-      <img src="https://cdn.simpleicons.org/jupyter" width="50" height="50" alt="Jupyter">
-    </td>
-  </tr>
-</table>
 
 
-
+<div>
+    <img src="assets/Naji_Naji_Skills.gif" alt="About Me Terminal GIF"/>
+</div>
 
 
 
