@@ -14,25 +14,24 @@
      This is the list of my skills and tools I am studying!
 -->
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=python,postgresql,js,html,css,jupyter,tableau,pandas,numpy,tensorflow,sklearn,pytorch,looker,powerbi,jira,confluence,notion,trello,monday,google,excel,powerpoint,github,vscode)](https://skillicons.dev)
-## 🧠 Data Skills  
+## 🧠 Data & Analytics
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,javascript,advanced-spreadsheets,data-cleaning,data-visualization,dashboards,rest-apis,looker,tableau,jupyter,webhooks,business-intelligence" alt="Data Skills icons" />
+  <img src="https://skillicons.dev/icons?i=py,postgres,js,google,excel,fastapi,pandas,numpy" />
 </p>
 
-## 🤖 Advanced Data Skills  
+## 🤖 Advanced Data Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=machine-learning,predictive-models,regression-models,statistical-analysis,hypothesis-testing" alt="Advanced Data Skills icons" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,r" />
 </p>
 
-## 📂 Project Management Skills  
+## 📂 Project Management
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=project-management,client-retention,budget-management,vendor-management,work-order-administration,process-optimization,cross-functional-team-leadership" alt="Project Management Skills icons" />
+  <img src="https://skillicons.dev/icons?i=notion,gitlab" />
 </p>
 
-## ⚙️ Tools & Platforms  
+## ⚙️ Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=advanced-jira,confluence,notion,monday,trello,google-sheets,microsoft-excel,powerpoint" alt="Tools & Platforms icons" />
+  <img src="https://skillicons.dev/icons?i=notion,react,nodejs,ps,vscode,github" />
 </p>
 
 
