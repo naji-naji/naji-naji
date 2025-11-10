@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=&multiline=true&repeat=false&width=800&height=200&lines=Hello%2C+I+am+Naji+Naji;+;Data+Analyst%2C+Project+Manager+and+Business+Intelligence+Specialist;+;Thanks+for+stopping+By!;+;Check+out+my+projects+below%3A" alt="Typing SVG" /></a>
 
 
-## Selected Work
+# Selected Work
 <table align="center">
   <tr>
     <td align="center" width="400">
@@ -52,31 +52,28 @@
 </table>
 
 
-## Data Skills
-<p>
-Python &nbsp;·&nbsp; SQL &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; Advanced Spreadsheets<br>
-Data Cleaning &nbsp;·&nbsp; Data Visualization &nbsp;·&nbsp; Dashboards<br>
-REST APIs &nbsp;·&nbsp; Looker Studio &nbsp;·&nbsp; Tableau &nbsp;·&nbsp; Jupyter &nbsp;·&nbsp; Webhooks
-</p>
+# Technical & Analytics Skills
 
-## Advanced Data & Analytics
-<p>
-Machine Learning &nbsp;·&nbsp; Predictive Models &nbsp;·&nbsp; Regression Models<br>
-Statistical Analysis &nbsp;·&nbsp; Hypothesis Testing &nbsp;·&nbsp; Business Intelligence
-</p>
+## Programming & Data
+* **Languages:** Python, SQL, JavaScript
+* **Tools & Environments:** Jupyter, REST APIs, Webhooks, Advanced Spreadsheets
+* **Data Proficiency:** Data Cleaning, Data Visualization, Statistical Analysis, Hypothesis Testing
 
-## Project Management
-<p>
-Project Management &nbsp;·&nbsp; Client Retention &nbsp;·&nbsp; Budget Management<br>
-Vendor Management &nbsp;·&nbsp; Process Optimization &nbsp;·&nbsp; Cross-Functional Leadership
-</p>
+## Advanced Analytics & Modeling
+* **Modeling:** Machine Learning (ML), Predictive Models, Regression Models
+* **Business Intelligence (BI):** Dashboards, Looker Studio, Tableau, Business Intelligence
+
+---
+
+# Project Management & Tools
+
+## Project & Business Acumen
+* **Management:** Project Management, Budget Management, Vendor Management
+* **Strategy:** Process Optimization, Client Retention, Cross-Functional Leadership
 
 ## Tools & Platforms
-<p>
-Jira &nbsp;·&nbsp; Confluence &nbsp;·&nbsp; Notion &nbsp;·&nbsp; Monday.com &nbsp;·&nbsp; Trello<br>
-Google Sheets &nbsp;·&nbsp; Microsoft Excel &nbsp;·&nbsp; PowerPoint
-</p>
-
+* **Project Management:** Jira, Confluence, Notion, Monday.com, Trello
+* **Productivity:** Google Sheets, Microsoft Excel, PowerPoint
 
 
 
