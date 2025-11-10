@@ -67,7 +67,6 @@
 * **Project Management:** Jira, Confluence, Notion, Monday.com, Trello
 * **Productivity:** Google Sheets, Microsoft Excel, PowerPoint
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ee948aa4-c84f-49ec-9edc-1c87dd017e43" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CECECE&height=120&section=footer" alt="footer"/>
 
