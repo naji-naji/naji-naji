@@ -16,6 +16,18 @@
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=python,postgresql,js,html,css,jupyter,tableau,pandas,numpy,tensorflow,sklearn,pytorch,looker,powerbi,jira,confluence,notion,trello,monday,google,excel,powerpoint,github,vscode)](https://skillicons.dev)
 
+| Data Skills | Advanced Data | Project Management | Tools & Platforms |
+|--------------|---------------|--------------------|-------------------|
+| 🐍 Python | 🤖 Machine Learning | 🗂️ Project Management | 🧩 Jira |
+| 💾 SQL | 📊 Predictive Models | 🤝 Client Retention | 🗒️ Confluence |
+| 📈 Data Visualization | 📐 Regression Models | 💰 Budget Management | 🧠 Notion |
+| 🧮 Advanced Spreadsheets | 📊 Statistical Analysis | 🧾 Vendor Management | 🧭 Monday.com |
+| 📊 Dashboards | 🧪 Hypothesis Testing | ⚙️ Process Optimization | ✅ Trello |
+| 🌐 REST APIs |   | 👥 Cross-functional Teams | 📗 Google Sheets |
+| 📊 Tableau |   |   | 📘 Microsoft Excel |
+| 💻 Jupyter |   |   | 🖥️ PowerPoint |
+
+
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
 
