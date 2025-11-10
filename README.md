@@ -54,9 +54,22 @@
 
 # Certifications
 
+<!-- Certificates Section -->
+<h2 align="center">Certificates</h2>
+
 <p align="center">
-  <img src="assets/google-advanced-data-analytics-certificate.png" alt="Google Advanced Data Analytics Certificate" width="200" style="margin: 10px;">
-  <img src="assets/google-data-analytics-professional-certificate-v2.png" alt="Google Data Analytics Professional Certificate" width="200" style="margin: 10px;">
+  <a href="https://www.credly.com/badges/ee948aa4-c84f-49ec-9edc-1c87dd017e43/public_url" target="_blank">
+    <img src="assets/google-advanced-data-analytics-certificate.png" 
+         alt="Google Advanced Data Analytics Certificate" 
+         width="200" 
+         style="margin: 10px;">
+  </a>
+  <a href="https://www.credly.com/badges/238cd65c-d136-43ad-a5e0-f2967fb06eae/public_url" target="_blank">
+    <img src="assets/google-data-analytics-professional-certificate-v2.png" 
+         alt="Google Data Analytics Professional Certificate" 
+         width="200" 
+         style="margin: 10px;">
+  </a>
 </p>
 
 <br>
