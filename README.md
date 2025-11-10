@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CECECE&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=200&width=435&lines=Hello%2C+I+am+Naji+Naji;Project+Manager;Data+Analyst;Business+Intelligence+Specialist" alt="Typing SVG" />
@@ -39,7 +39,7 @@
     </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CECECE&height=120&section=footer" alt="footer"/>
 
 <!--
      Thanks for being my guest <3
