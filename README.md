@@ -38,45 +38,42 @@ Google Sheets &nbsp;·&nbsp; Microsoft Excel &nbsp;·&nbsp; PowerPoint
 
 
 
-## 🚀 Selected Work
+## Selected Work
 
 <div align="center">
-
-  <!-- LOOKER STUDIO -->
-  <a href="https://lookerstudio.google.com/reporting/<your-report-id>" target="_blank">
-    <img src="https://skillicons.dev/icons?i=looker" alt="Looker Studio" width="70" height="70"><br>
-    <b>Looker Studio — Sales Dashboard</b><br>
-    <img src="https://skillicons.dev/icons?i=looker,tableau,python,javascript&perline=8" alt="Skills" height="26">
+  <!-- Project 1 -->
+  <a href="https://lookerstudio.google.com/reporting/<your-report-id>" target="_blank" style="text-decoration:none; margin:20px;">
+    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/icons/looker.svg" alt="Looker Studio Icon" width="60" height="60">
+    <br><strong>Sales Dashboard – Looker Studio</strong>
+    <br>
+    <img src="https://skillicons.dev/icons?i=looker,tableau,python&perline=8" alt="Skills" height="24">
   </a>
 
-  <br><br>
-
-  <!-- JUPYTER / PYTHON -->
-  <a href="https://github.com/<your-username>/<your-notebook-repo>" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python/Jupyter" width="70" height="70"><br>
-    <b>Jupyter Notebooks — Data Automation</b><br>
-    <img src="https://skillicons.dev/icons?i=python,jupyter,javascript&perline=8" alt="Skills" height="26">
+  <!-- Project 2 -->
+  <a href="https://github.com/your-username/your-repo" target="_blank" style="text-decoration:none; margin:20px;">
+    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/icons/python.svg" alt="Python Icon" width="60" height="60">
+    <br><strong>Data Automation Pipeline</strong>
+    <br>
+    <img src="https://skillicons.dev/icons?i=python,js,postgresql&perline=8" alt="Skills" height="24">
   </a>
 
-  <br><br>
-
-  <!-- EXCEL / SHEETS MODEL -->
-  <a href="https://drive.google.com/file/d/<your-file-id>/view" target="_blank">
-    <img src="https://skillicons.dev/icons?i=excel" alt="Excel Model" width="70" height="70"><br>
-    <b>Budget Model — Excel / Sheets</b><br>
-    <img src="https://skillicons.dev/icons?i=excel,google,powerpoint&perline=8" alt="Skills" height="26">
+  <!-- Project 3 -->
+  <a href="https://drive.google.com/file/d/<file-id>/view" target="_blank" style="text-decoration:none; margin:20px;">
+    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/icons/excel.svg" alt="Excel Icon" width="60" height="60">
+    <br><strong>Budget Model (Excel / Sheets)</strong>
+    <br>
+    <img src="https://skillicons.dev/icons?i=excel,google,sheets&perline=8" alt="Skills" height="24">
   </a>
 
-  <br><br>
-
-  <!-- PM / OPS CASE STUDY -->
-  <a href="https://www.notion.so/<your-page>" target="_blank">
-    <img src="https://skillicons.dev/icons?i=jira" alt="Project Management" width="70" height="70"><br>
-    <b>Process Optimization — Case Study</b><br>
-    <img src="https://skillicons.dev/icons?i=jira,confluence,notion,trello,monday&perline=8" alt="Skills" height="26">
+  <!-- Project 4 -->
+  <a href="https://your-notion-or-site.page" target="_blank" style="text-decoration:none; margin:20px;">
+    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/icons/jira.svg" alt="Jira Icon" width="60" height="60">
+    <br><strong>Ops Optimization Case Study</strong>
+    <br>
+    <img src="https://skillicons.dev/icons?i=jira,trello,notion&perline=8" alt="Skills" height="24">
   </a>
-
 </div>
+
 
 
 
