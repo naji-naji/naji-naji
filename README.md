@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CECECE&height=120&section=header" alt="header"/> 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=&color=1E90FF&multiline=true&repeat=false&width=800&height=200&lines=Hello%2C+I+am+Naji+Naji;+;Data+Analyst%2C+Project+Manager+and+Business+Intelligence+Specialist;+;Thanks+for+stopping+By!;+;Check+out+my+projects+below%3A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=&color=1E90FF&multiline=true&repeat=false&width=800&height=200&lines=Hello%2C+I+am+Naji+Naji;+;Data+Analyst%2C+Project+Manager+and+Business+Intelligence+Specialist.;+;Thanks+for+stopping+by!;+;Check+out+my+projects+below%3A" alt="Typing SVG" /></a>
 
 # Selected Work
 <table align="center">
