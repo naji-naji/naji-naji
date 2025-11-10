@@ -70,6 +70,36 @@
 
 
 
+# 🛠️ Technical & Analytics Skills
+
+## 💻 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-00599C?style=flat&logo=openapiinitiative&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF6600?style=flat&logo=github&logoColor=white)
+
+## 📊 Data & Modeling
+* Data Cleaning & Wrangling
+* Data Visualization & Dashboards
+* Statistical Analysis & Hypothesis Testing
+* Machine Learning (ML), Predictive Models, Regression Models
+
+---
+
+# 🚀 Project Management & Tools
+
+## 📈 Business & Leadership
+* **Key Skills:** Project Management | Client Retention | Budget Management
+* **Strategy:** Process Optimization | Vendor Management | Cross-Functional Leadership
+
+## ⚙️ BI & PM Tools
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=google&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CECECE&height=120&section=footer" alt="footer"/>
 
 <!--
