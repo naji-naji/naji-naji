@@ -51,7 +51,6 @@
   </tr>
 </table>
 <br>
-<br>
 
 # Technical & Analytics Skills
 
