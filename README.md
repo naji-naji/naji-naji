@@ -54,9 +54,6 @@
 
 # Certifications
 
-<!-- Certificates Section -->
-<h2 align="center">Certificates</h2>
-
 <p align="center">
   <a href="https://www.credly.com/badges/ee948aa4-c84f-49ec-9edc-1c87dd017e43/public_url" target="_blank">
     <img src="assets/google-advanced-data-analytics-certificate.png" 
